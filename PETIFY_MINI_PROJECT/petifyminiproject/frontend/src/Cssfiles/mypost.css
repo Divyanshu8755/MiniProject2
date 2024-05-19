@@ -1,0 +1,11 @@
+.big {
+    /* border: 1px solid black; */
+    /* width: 150px; */
+    /* height: 150px; */
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+  }
+  
+  .big:hover {
+    transform: translateX(20px);
+  }
